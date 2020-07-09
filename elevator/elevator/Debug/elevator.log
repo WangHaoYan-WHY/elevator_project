@@ -1,0 +1,118 @@
+﻿  main.cpp
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(34): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(34): error C2146: syntax error: missing ';' before identifier 'cv'
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(35): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(35): error C2146: syntax error: missing ';' before identifier 'mt'
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(57): error C2143: syntax error: missing ';' before '*'
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(57): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(57): error C2238: unexpected token(s) preceding ';'
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(63): error C2143: syntax error: missing ';' before '<'
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(63): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(63): error C2238: unexpected token(s) preceding ';'
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(64): error C2143: syntax error: missing ';' before '<'
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(64): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(64): error C2238: unexpected token(s) preceding ';'
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(72): error C3646: 'ml': unknown override specifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(72): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(86): error C2065: 'elevator_thread': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(86): error C2061: syntax error: identifier 'thread'
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(91): error C2065: 'elevator_thread': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(96): error C2065: 'arrive_list': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(97): error C2065: 'arrive_list': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(100): error C2065: 'vector': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(100): error C2059: syntax error: '>'
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(100): error C2039: 'iterator': is not a member of '`global namespace''
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(101): error C2065: 'iter': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(101): error C2065: 'arrive_list': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(102): error C2065: 'iter': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(103): error C2065: 'arrive_list': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(103): error C2065: 'iter': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(106): error C2065: 'iter': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(114): error C2065: 'request_list': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(115): error C2065: 'request_list': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(118): error C2065: 'vector': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(118): error C2059: syntax error: '>'
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(118): error C2039: 'iterator': is not a member of '`global namespace''
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(119): error C2065: 'iter': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(119): error C2065: 'request_list': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(120): error C2065: 'iter': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(121): error C2065: 'request_list': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(121): error C2065: 'iter': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(124): error C2065: 'iter': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(137): error C2065: 'vector': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(137): error C2059: syntax error: '>'
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(137): error C2039: 'iterator': is not a member of '`global namespace''
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(138): error C2065: 'iter': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(138): error C2065: 'arrive_list': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(139): error C2065: 'iter': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(142): error C2065: 'cout': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(142): error C2065: 'iter': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(142): error C2065: 'endl': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(144): error C2065: 'iter': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(144): error C2065: 'arrive_list': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(147): error C2065: 'arrive_list': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(150): error C2065: 'iter': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(152): error C2065: 'arrive_list': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(163): error C2065: 'request_list': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(163): error C2065: 'arrive_list': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(164): error C2065: 'ml': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(166): error C2065: 'ml': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(167): error C2039: 'cout': is not a member of 'std'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stddef.h(19): note: see declaration of 'std'
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(167): error C2065: 'cout': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(168): error C2039: 'cout': is not a member of 'std'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stddef.h(19): note: see declaration of 'std'
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(168): error C2065: 'cout': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(168): error C2065: 'request_list': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(168): error C2065: 'arrive_list': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(168): error C2039: 'endl': is not a member of 'std'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stddef.h(19): note: see declaration of 'std'
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(168): error C2065: 'endl': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(169): error C2065: 'cv': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(170): error C2653: 'this_thread': is not a class or namespace name
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(170): error C2039: 'chrono': is not a member of 'std'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stddef.h(19): note: see declaration of 'std'
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(170): error C3083: 'chrono': the symbol to the left of a '::' must be a type
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(170): error C2039: 'milliseconds': is not a member of 'std'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stddef.h(19): note: see declaration of 'std'
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(170): error C3861: 'milliseconds': identifier not found
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(170): error C3861: 'sleep_for': identifier not found
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(178): error C2065: 'vector': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(178): error C2059: syntax error: '>'
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(178): error C2039: 'iterator': is not a member of '`global namespace''
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(179): error C2065: 'iter': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(179): error C2065: 'request_list': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(180): error C2065: 'iter': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(182): error C2065: 'cout': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(182): error C2065: 'iter': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(182): error C2065: 'endl': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(184): error C2065: 'arrive_list': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(185): error C2065: 'iter': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(187): error C2065: 'iter': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(187): error C2660: 'Elevator::add_arrive_list': function does not take 1 arguments
+  c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(94): note: see declaration of 'Elevator::add_arrive_list'
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(188): error C2065: 'iter': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(188): error C2541: 'delete': cannot delete objects that are not pointers
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(189): error C2065: 'iter': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(189): error C2065: 'request_list': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(192): error C2065: 'iter': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(195): error C2065: 'cout': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(209): error C2065: 'cout': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(209): error C2065: 'endl': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(212): error C2065: 'cout': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(212): error C2065: 'endl': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(230): error C2065: 'arrive_list': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(238): error C3646: 'ml': unknown override specifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(238): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(239): error C2143: syntax error: missing ';' before '<'
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(239): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(239): error C2238: unexpected token(s) preceding ';'
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(242): error C2143: syntax error: missing ';' before '<'
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(242): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(242): error C2238: unexpected token(s) preceding ';'
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(261): error C2065: 'thread': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(261): error C2146: syntax error: missing ';' before identifier 'th'
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(261): error C3861: 'th': identifier not found
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(262): error C2065: 'th': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(271): error C2065: 'cin': undeclared identifier
+c:\users\wanghaoyan\desktop\elevator\elevator\elevator\main.cpp(271): fatal error C1003: error count exceeds 100; stopping compilation
